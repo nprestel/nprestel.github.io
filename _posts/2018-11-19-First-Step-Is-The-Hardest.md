@@ -19,4 +19,4 @@ I expect these posts to mainly be focused around Supply Chain Logistics (_'cause
 Thanks for visiting and I hope there's something here that makes it worth your stay.
 
 Best,
-NAP
+NAP 
