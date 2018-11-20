@@ -2,6 +2,9 @@
 layout: post
 title: Do the stuff that makes you great
 ---
+<p align="center"> 
+<img src="https://github.com/nprestel/nprestel.github.io/blob/master/images/Do-great-venn.png">
+</p>
 
 As I get closer to 40 I've been catching myself in a state of retrospection over the good and bad things (i.e. _experiences_) that put me where I'm at today.
 
