@@ -6,6 +6,8 @@ title: Do the stuff that makes you great
 <img src="https://github.com/nprestel/nprestel.github.io/blob/master/images/Do-great-venn.png">
 </p>
 
+![_config.yml]({{ site.baseurl }}/images/Do-great-venn.png)
+
 As I get closer to 40 I've been catching myself in a state of retrospection over the good and bad things (i.e. _experiences_) that put me where I'm at today.
 
 Two things stand out to me...
