@@ -11,9 +11,8 @@ title: Industry vs. Consulting
 | 3 hours researching competitors for benchmarking  | I got a website subscription for this...                                |
 | 3 hours building a costing model in Excel         | I got a guy with a template for this...    |
 | "results show $9.1M savings over 3 years"                              | "results show ~$6M-$8M savings over ~1-8 years"                                              |
-|I gotta get home by 6 to coach my kid's soccer game                                                   |I gotta get home by Saturday morning to see my kid's soccer game                                               |
+|I gotta get home by 7pm to coach my kid's soccer practice                                                   |I gotta get home by Saturday 7am to see my kid's soccer game                                               |
 |"not my expertise, you need to talk to Dave"                                                   |"not my expertise but I can Google this topic tonight and become an expert"                                               |
 |Director = reports to Sr. VP, manages team of 50                                                   |Director = graduated from undergrad 2 years ago, makes pretty slides                                               |
-|$0.85 for vending machine chips                                                   |Unlimited ClifBars and LaCroix sparkling water                                               |
-|$0.85 for vending machine chips                                                   |Unlimited ClifBars and LaCroix sparkling water                                               |
+|$0.85 for vending machine chips                                                   |Unlimited ClifBars and LaCroix                                               |
 |Late work night = 7pm                                                   |Late work night = 7am                                               |
