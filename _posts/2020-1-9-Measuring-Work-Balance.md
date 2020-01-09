@@ -9,7 +9,7 @@ I just returned from a conference where the company founder spent time relaying 
 2. don't be afraid to tell your manager when you're approaching burnout and need time off
 3. plan vacation time....get it on the calendar right away to avoid scheduling conflicts
 
-This is all well and good, except it was communicated in the middle of a 12-hour, meeting-filled day and was followed by a 2 hour mandatory dinner and drink reception. I don't understand how companies preach the importance of work/life balance but at the same time demonstrate a contrarian culture. It's almost a "check the box" activity the company can go back to if ever challenged.
+This is all well and good, except it was communicated in the middle of a 12-hour, meeting-filled day and was followed by a 2 hour mandatory dinner and drink reception. It's comedic to see companies preach work/life balance but demonstrate a contrarian culture... almost like it's a "check the box" activity the company can go back to if ever challenged.
 
 
 Here's my thought on this....how about instead of approaching work/life balance as sprinkling in "off days"* among long weeks of exhausting 12 hour work days __WE INSTEAD LOOK AT BALANCING THE WORK DAY ITSELF?!?__ Why must we push ourselves to the brink of exhaustion and be trusted to yell "uncle!" before we fall off the deep end? (this is especially difficult for kids right out of school trying to get any edge on interal competition and gain a foothold for future advancement)
