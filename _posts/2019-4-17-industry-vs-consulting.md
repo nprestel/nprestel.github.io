@@ -15,4 +15,6 @@ title: Industry vs. Consulting
 |"not my expertise, you need to talk to Dave"                                                   |"not my expertise but I can Google this topic tonight and become an expert"                                               |
 |Director = reports to Sr. VP, manages team of 50                                                   |Director = graduated from undergrad 2 years ago, makes pretty slides                                               |
 |$0.85 for vending machine chips                                                   |Unlimited ClifBars and LaCroix                                               |
-|Late work night = 7pm                                                   |Late work night = 7am                                               |
+|Late work night = 7pm                                                   |Late work night = 7am   
+|VLOOKUP                                                   |INDEX-MATCH
+|
