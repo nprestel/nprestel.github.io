@@ -32,4 +32,4 @@ How about we cut the unnecessary fat out of the day and create a work environmen
 
 _* "off days" for someone who is married with kids entails catching up on errands and family time that's built up for weeks or even months. There is very little "off" time....just a different kind of work._
 
-[here's a supporting view on this topic from Shopify's CEO] (https://twitter.com/tobi/status/1210242184341000192? "Tobi Lutke Twitter")
+[here's a supporting view on this topic from Shopify's CEO](https://twitter.com/tobi/status/1210242184341000192?)
