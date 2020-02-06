@@ -19,7 +19,7 @@ I liken it to house flippers buying a dilapidated house and improving just the c
 
 Now imagine working for one of these PE-owned companies and living through the PE acquisition cycle (buy-change stuff-sell) not once, but multiple times! PE firms love to buy and sell from one another. This is why I call it "corporate strip-mining," the PE firms come and take everything they can from their acquisitions while investing as little as needed. Then they flip it to the next buyer who has their own 3-5 year ROI model that applies their own version of the same playbook. In the end the company either goes bankrupt because they're saddled with so much debt (see Toys R Us, Payless Shoes, Sears, Bed Bath & Beyond (?)), or require the PE firm to dig into their pockets and hold the company longer than they had hoped (see Associated Materials).
 
-PE acquisitions are a ruthless game in much need of some type of regulation.
+PE acquisitions are a ruthless game in need of oversight and regulation.
 
 
 [more information on the downfall of Subway restaurants] (https://www.mashed.com/24782/6-mistakes-subway-can-never-erase/)
