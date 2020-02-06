@@ -1,35 +1,25 @@
 ---
 layout: post
-title: Work/life balance shouldn't be counted in days
+title: The problem with private equity acquisitions (aka corporate strip-mining)
 ---
 
-I just returned from a conference where the company founder spent time relaying the importance of work/life balance to the entire firm. Most of this centered on the following points...
+Here's the playbook private equity (PE) firms use when they pursue an acquisition..
 
-1. people are our greatest asset
-2. don't be afraid to tell your manager when you're approaching burnout and need time off
-3. plan vacation time....get it on the calendar right away to avoid scheduling conflicts
+1. Purchase an underperforming company at the right price
+2. Apply your industry know-how and best practices to improve EBITDA
+3. Sell the company within 3-5 yrs at a profit
 
-This is all well and good, except it was communicated in the middle of a 12-hour, meeting-filled day and was followed by a 2 hour mandatory dinner and drink reception. It's comedic to see companies preach work/life balance but demonstrate a contrarian culture... almost like it's a "check the box" activity the company can go back to if ever challenged.
+So what's the problem? You'd think this is a win-win for both sides...the PE firm makes money while improving a sub-performing company. 
 
+Let me explain...
 
-Here's my thought on this....how about instead of approaching work/life balance as sprinkling in "off days"* among long weeks of exhausting 12 hour work days __WE INSTEAD LOOK AT BALANCING THE WORK DAY ITSELF?!?__ Why must we push ourselves to the brink of exhaustion and be trusted to yell "uncle!" before we fall off the deep end? (this is especially difficult for kids right out of school trying to get any edge on interal competition and gain a foothold for future advancement)
+After clearing an acquisition the PE firm immediately focuses on improving the sales-generating and/or cost-intensive areas of the company. This is where all the "meat" is. The goal is to have a list of short term projects requiring little-to-no capital with high EBITDA improvement. But here's the catch, underperforming companies often fail because core areas have been neglected over time. And many times these disregarded areas require time and money to fix...usually more than a PE firm wants to commit. Take Subway restaurants for example - do you really think all the problems they face today (old menu, failure to evolve, eroding customer service, changing tastes, old decor, etc.) can be boiled down to low CAPEX, short term projects? I think not. These problems took years to take shape and will take years (not months) to fix. 
 
-Some might argue, "that's what separates our firm from the others....we work harder." I have lived this life and must respectfully disagree. Here are some recurring observations I notice when working on a project...
+I liken it to house flippers buying a dilapidated house and improving just the cosmetic furnishings while neglecting the core mechanicals. PE firms are the same way. They focus on the "quick wins" - reducing headcount (SG&A), reducing supplier costs (via RFPs), implementing technology, etc. You can compare this approach to changing the interior decor of a house - changing out fixtures and painting the walls. But PE firms avoid/ignore the harder stuff - like improving PR, upgrading/adding equipment, investing in infrastructure, and changing business business strategy. I compare these areas to upgrading the mechanicals of the house - furnace, AC, roof. They are costly, "non-sexy" investments with a benefit horizon of 5-10+ years (much longer than the PE firm plans to keep the company). The rationalization is, "why invest in something that won't pay off during your ownership period?" Unfortunately, most often this is just what the company needs to not only survive but thrive.
 
-1. group working sessions with everyone crammed into the same room into wee hours of the night (this is not efficient and not how most people prefer to work. it's good for collaboration, but then disperse and do the creative work somewhere else)
-2. rambling ponitifications from the Senior Leadership on the project....talking about what needs to be done (with no respect for allowing time to actually DO the work)
-3. late-night dinners and drinks with the team (that are all-but deemed mandatory)
-4. early morning arrivals to the client (need the appearance that we're the first to arrive and the last to leave- optics are everything!)
-5. working lunches....every....single.....day (no chance for mid-day breaks or breathers.....don't even think about going to the gym)
+Now imagine working for one of these PE-owned companies and living through the PE acquisition cycle (buy-change stuff-sell) not once, but multiple times! PE firms love to buy and sell from one another. This is why I call it "corporate strip-mining," the PE firms come and take everything they can from their acquisitions while investing as little as needed. Then they flip it to the next buyer who has their own 3-5 year ROI model that applies their own version of the same playbook. In the end the company either goes bankrupt because they're saddled with so much debt (see Toys R Us, Payless Shoes, Sears, Bed Bath & Beyond (?)), or require the PE firm to dig into their pockets and hold the company longer than they had hoped (see Associated Materials).
 
-These are just a few - there are many more!
+PE acquisitions are a ruthless game in much need of some type of regulation.
 
 
-
-How about we cut the unnecessary fat out of the day and create a work environment/schedule that allows people to __THRIVE__ and not just survive.
-
-
-
-_* "off days" for someone who is married with kids entails catching up on errands and family time that's built up for weeks or even months. There is very little "off" time....just a different kind of work._
-
-[here's a supporting view on this topic from Shopify's CEO](https://twitter.com/tobi/status/1210242184341000192?)
+[more information on the downfall of Subway restaurants] (https://www.mashed.com/24782/6-mistakes-subway-can-never-erase/)
