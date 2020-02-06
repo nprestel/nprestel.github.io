@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The problem with private equity acquisitions (aka corporate strip-mining)
+title: The problem with private equity acquisitions
 ---
 
 Here's the playbook private equity (PE) firms use when they pursue an acquisition..
