@@ -21,5 +21,4 @@ Now imagine working for one of these PE-owned companies and living through the P
 
 PE acquisitions are a ruthless game in need of oversight and regulation.
 
-[I'm an inline-style link](https://www.google.com)
 [more information on the downfall of Subway restaurants](https://www.mashed.com/24782/6-mistakes-subway-can-never-erase/)
